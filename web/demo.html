@@ -1,0 +1,72 @@
+<html>
+<head>
+
+	<script type="text/javascript" src="http://cdnjs.cloudflare.com/ajax/libs/jquery/1.11.1-rc2/jquery.js"></script>
+
+   <script type="text/javascript" src="http://cdnjs.cloudflare.com/ajax/libs/jquery-ajaxtransport-xdomainrequest/1.0.2/jquery.xdomainrequest.min.js"></script>
+
+	<script src="http://cdnjs.cloudflare.com/ajax/libs/numeral.js/1.4.5/numeral.min.js"></script>
+
+	<script type="text/javascript" src="http://www.amcharts.com/lib/3/amcharts.js"></script>
+	<script type="text/javascript" src="http://www.amcharts.com/lib/3/gauge.js"></script>
+	<script type="text/javascript" src="http://www.amcharts.com/lib/3/themes/patterns.js"></script>
+
+   <!-- Latest compiled and minified CSS -->
+   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css">
+   <!-- Latest compiled and minified JavaScript -->
+   <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/js/bootstrap.min.js"></script>
+   <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
+    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+    <!--[if lt IE 9]>
+      <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+      <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+    <![endif]-->
+
+
+	<script type="text/javascript" src="demo.js"></script>
+	<style type="text/css">
+	.chart {
+		width	: 300px;
+		height	: 300px;
+	}	
+   .imgLoading{
+      background-image: url("load.gif");
+      display: none;
+      width: 30px;
+      height: 30px;
+      position: absolute;
+      margin: 135px;
+   }
+</style>
+</head>
+<body>
+<div>
+
+
+   <!--
+   http://docs.amcharts.com/3/javascriptcharts/AmCharts
+   http://docs.amcharts.com/3/javascriptcharts/AmLegend
+   http://docs.amcharts.com/3/javascriptcharts/GaugeArrow
+   http://jsfiddle.net/api/post/library/pure/
+   -->
+   <div class="jumbotron">
+
+      <div class="row">
+         <h2>Commissionato agenzia annuo</h2>
+         <div id="imgLoading" class="imgLoading"></div>
+         <div id="chartdiv" class="chart"></div>
+      </div>
+
+      <div class="row">
+         <h2>Commissionato agenzia mese corrente</h2>
+         <div id="imgLoading2" class="imgLoading"></div>
+         <div id="chartdiv2" class="chart"></div>
+      </div>
+
+
+   </div>
+   
+
+
+</body>
+</html>

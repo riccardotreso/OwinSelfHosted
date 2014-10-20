@@ -1,0 +1,182 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<KPI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <KpiException />
+  <TotaleMovimentiByClienti>218083</TotaleMovimentiByClienti>
+  <TotaleMovimentiByAgenzie>174671</TotaleMovimentiByAgenzie>
+  <Clienti>
+    <PrezzoMedio>
+      <KpiCommissionato>Annuo</KpiCommissionato>
+      <AnnoPrecedente>97,62</AnnoPrecedente>
+      <AnnoPrecedentePD>96,64</AnnoPrecedentePD>
+      <AnnoCorrente>94,35</AnnoCorrente>
+      <PerCentAcPd>-3,34</PerCentAcPd>
+      <Budget />
+      <Delta />
+      <PerCentAcBdg />
+      <Anno>2014</Anno>
+      <Mese>0</Mese>
+    </PrezzoMedio>
+    <PrezzoMedio>
+      <KpiCommissionato>Ottobre</KpiCommissionato>
+      <AnnoPrecedente>92,63</AnnoPrecedente>
+      <AnnoPrecedentePD>90,64</AnnoPrecedentePD>
+      <AnnoCorrente>97,96</AnnoCorrente>
+      <PerCentAcPd>5,75</PerCentAcPd>
+      <Budget />
+      <Delta />
+      <PerCentAcBdg />
+      <Anno>2014</Anno>
+      <Mese>10</Mese>
+    </PrezzoMedio>
+    <PrezzoMedio>
+      <KpiCommissionato>Progressivo a Ottobre</KpiCommissionato>
+      <AnnoPrecedente>96,80</AnnoPrecedente>
+      <AnnoPrecedentePD>96,49</AnnoPrecedentePD>
+      <AnnoCorrente>94,29</AnnoCorrente>
+      <PerCentAcPd>-2,59</PerCentAcPd>
+      <Budget />
+      <Delta />
+      <PerCentAcBdg />
+      <Anno>2014</Anno>
+      <Mese>10</Mese>
+    </PrezzoMedio>
+    <Commissionato>
+      <KpiCommissionato>Totale Annuo</KpiCommissionato>
+      <AnnoPrecedente>130.346.647,00</AnnoPrecedente>
+      <AnnoPrecedentePD>111.690.266,00</AnnoPrecedentePD>
+      <AnnoCorrente>108.915.545,00</AnnoCorrente>
+      <PerCentAcPd>-2,48</PerCentAcPd>
+      <Budget>141.521.007,00</Budget>
+      <Delta>-32.605.463,00</Delta>
+      <PerCentAcBdg>-23,04</PerCentAcBdg>
+      <Anno>2014</Anno>
+      <Mese>0</Mese>
+    </Commissionato>
+    <Commissionato>
+      <KpiCommissionato>Settembre</KpiCommissionato>
+      <AnnoPrecedente>11.944.732,00</AnnoPrecedente>
+      <AnnoPrecedentePD>11.926.007,00</AnnoPrecedentePD>
+      <AnnoCorrente>12.164.007,00</AnnoCorrente>
+      <PerCentAcPd>2,00</PerCentAcPd>
+      <Budget>12.677.668,00</Budget>
+      <Delta>-513.661,00</Delta>
+      <PerCentAcBdg>-4,05</PerCentAcBdg>
+      <Anno>2014</Anno>
+      <Mese>9</Mese>
+    </Commissionato>
+    <Commissionato>
+      <KpiCommissionato>Ottobre</KpiCommissionato>
+      <AnnoPrecedente>14.361.761,00</AnnoPrecedente>
+      <AnnoPrecedentePD>13.195.279,00</AnnoPrecedentePD>
+      <AnnoCorrente>13.190.678,00</AnnoCorrente>
+      <PerCentAcPd>-0,03</PerCentAcPd>
+      <Budget>16.181.244,00</Budget>
+      <Delta>-2.990.565,00</Delta>
+      <PerCentAcBdg>-18,48</PerCentAcBdg>
+      <Anno>2014</Anno>
+      <Mese>10</Mese>
+    </Commissionato>
+    <Commissionato>
+      <KpiCommissionato>Novembre</KpiCommissionato>
+      <AnnoPrecedente>14.983.972,00</AnnoPrecedente>
+      <AnnoPrecedentePD>6.916.458,00</AnnoPrecedentePD>
+      <AnnoCorrente>5.849.596,00</AnnoCorrente>
+      <PerCentAcPd>-15,43</PerCentAcPd>
+      <Budget>15.929.556,00</Budget>
+      <Delta>-10.079.960,00</Delta>
+      <PerCentAcBdg>-63,28</PerCentAcBdg>
+      <Anno>2014</Anno>
+      <Mese>11</Mese>
+    </Commissionato>
+    <DescrizioneCommissionato>KPI Commissionato Clienti</DescrizioneCommissionato>
+    <DescrizionePrezzoMedio>KPI Prezzo Medio Commerciale </DescrizionePrezzoMedio>
+  </Clienti>
+  <Agenzie>
+    <PrezzoMedio>
+      <KpiCommissionato>Annuo</KpiCommissionato>
+      <AnnoPrecedente>97,71</AnnoPrecedente>
+      <AnnoPrecedentePD>96,22</AnnoPrecedentePD>
+      <AnnoCorrente>93,53</AnnoCorrente>
+      <PerCentAcPd>-4,28</PerCentAcPd>
+      <Budget />
+      <Delta />
+      <PerCentAcBdg />
+      <Anno>2014</Anno>
+      <Mese>0</Mese>
+    </PrezzoMedio>
+    <PrezzoMedio>
+      <KpiCommissionato>Ottobre</KpiCommissionato>
+      <AnnoPrecedente>94,55</AnnoPrecedente>
+      <AnnoPrecedentePD>91,83</AnnoPrecedentePD>
+      <AnnoCorrente>97,26</AnnoCorrente>
+      <PerCentAcPd>2,86</PerCentAcPd>
+      <Budget />
+      <Delta />
+      <PerCentAcBdg />
+      <Anno>2014</Anno>
+      <Mese>10</Mese>
+    </PrezzoMedio>
+    <PrezzoMedio>
+      <KpiCommissionato>Progressivo a Ottobre</KpiCommissionato>
+      <AnnoPrecedente>96,54</AnnoPrecedente>
+      <AnnoPrecedentePD>96,07</AnnoPrecedentePD>
+      <AnnoCorrente>93,56</AnnoCorrente>
+      <PerCentAcPd>-3,09</PerCentAcPd>
+      <Budget />
+      <Delta />
+      <PerCentAcBdg />
+      <Anno>2014</Anno>
+      <Mese>10</Mese>
+    </PrezzoMedio>
+    <Commissionato>
+      <KpiCommissionato>Totale Annuo</KpiCommissionato>
+      <AnnoPrecedente>108.308.861,00</AnnoPrecedente>
+      <AnnoPrecedentePD>92.834.683,00</AnnoPrecedentePD>
+      <AnnoCorrente>89.530.079,00</AnnoCorrente>
+      <PerCentAcPd>-3,56</PerCentAcPd>
+      <Budget>0,00</Budget>
+      <Delta>0,00</Delta>
+      <PerCentAcBdg>0,00</PerCentAcBdg>
+      <Anno>2014</Anno>
+      <Mese>0</Mese>
+    </Commissionato>
+    <Commissionato>
+      <KpiCommissionato>Settembre</KpiCommissionato>
+      <AnnoPrecedente>10.287.489,00</AnnoPrecedente>
+      <AnnoPrecedentePD>10.268.764,00</AnnoPrecedentePD>
+      <AnnoCorrente>10.377.824,00</AnnoCorrente>
+      <PerCentAcPd>1,06</PerCentAcPd>
+      <Budget>0,00</Budget>
+      <Delta>0,00</Delta>
+      <PerCentAcBdg>0,00</PerCentAcBdg>
+      <Anno>2014</Anno>
+      <Mese>9</Mese>
+    </Commissionato>
+    <Commissionato>
+      <KpiCommissionato>Ottobre</KpiCommissionato>
+      <AnnoPrecedente>12.698.193,00</AnnoPrecedente>
+      <AnnoPrecedentePD>11.899.668,00</AnnoPrecedentePD>
+      <AnnoCorrente>11.831.149,00</AnnoCorrente>
+      <PerCentAcPd>-0,58</PerCentAcPd>
+      <Budget>0,00</Budget>
+      <Delta>0,00</Delta>
+      <PerCentAcBdg>0,00</PerCentAcBdg>
+      <Anno>2014</Anno>
+      <Mese>10</Mese>
+    </Commissionato>
+    <Commissionato>
+      <KpiCommissionato>Novembre</KpiCommissionato>
+      <AnnoPrecedente>13.199.322,00</AnnoPrecedente>
+      <AnnoPrecedentePD>6.536.642,00</AnnoPrecedentePD>
+      <AnnoCorrente>5.226.608,00</AnnoCorrente>
+      <PerCentAcPd>-20,04</PerCentAcPd>
+      <Budget>0,00</Budget>
+      <Delta>0,00</Delta>
+      <PerCentAcBdg>0,00</PerCentAcBdg>
+      <Anno>2014</Anno>
+      <Mese>11</Mese>
+    </Commissionato>
+    <DescrizioneCommissionato>KPI Commissionato Agenzie</DescrizioneCommissionato>
+    <DescrizionePrezzoMedio>KPI Prezzo Medio Commerciale </DescrizionePrezzoMedio>
+  </Agenzie>
+</KPI>
